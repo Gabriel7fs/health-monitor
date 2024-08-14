@@ -1,2 +1,2 @@
-# APP-MONITOR-CARDIACO
- Aplicativo mobile para monitoramento de batimentos cardíacos.
+# Health Monitor
+ Aplicativo mobile integrado com dispositivo IOT para monitoramento de batimentos cardíacos.
