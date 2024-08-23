@@ -39,3 +39,4 @@ Desenvolvido em conformidade com as regulamentações de saúde, como a RDC 751/
 - [Backend](https://github.com/Gabriel7fs/health-monitor-backend) - Link do repositório do back-end
 - [Frontend](https://github.com/Gabriel7fs/health-monitor-frontend) - Link do repositório do front-end
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Link do repositório do IOT
+- [Jira](https://gabrielfs86.atlassian.net/jira/software/projects/PHM/boards/2?atlOrigin=eyJpIjoiZDUxNzczNzk5OThlNDM2ZWIzZTMzNjQyNzExOTU3MjYiLCJwIjoiaiJ9) - Link do repositório do IOT
