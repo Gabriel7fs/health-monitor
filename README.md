@@ -40,3 +40,4 @@ Desenvolvido em conformidade com as regulamentações de saúde, como a RDC 751/
 - [Frontend](https://github.com/Gabriel7fs/health-monitor-frontend) - Link do repositório do front-end
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Link do repositório do IOT
 - [Jira](https://gabrielfs86.atlassian.net/jira/software/projects/PHM/boards/2?atlOrigin=eyJpIjoiZDUxNzczNzk5OThlNDM2ZWIzZTMzNjQyNzExOTU3MjYiLCJwIjoiaiJ9) - Link do repositório do IOT
+- [Figma](https://www.figma.com/proto/SRugCUC42ZkaDxU8i3bWDz/Health-Monitor?node-id=0-1&t=SfVAw0eg87TpCmve-1) - Link das Mockups no Figma
