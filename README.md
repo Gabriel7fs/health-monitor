@@ -1,10 +1,13 @@
-# Health Monitor - Monitore sua saúde cardiovascular
+# Health Monitor - Monitoramento de Batimentos Cardíacos
 
-Solução tecnológica desenvolvida para monitorar a saúde cardíaca. Projetado com foco na facilidade de uso, o Health Monitor é um dispositivo portátil, alimentado por IoT, que se integra a um aplicativo móvel. Ideal para indivíduos com condições cardíacas, cuidadores e profissionais de saúde, o Health Monitor oferece uma maneira eficaz de garantir que o coração esteja sempre sendo monitorado.
+Este projeto visa o desenvolvimento de um sistema IoT integrado a um aplicativo móvel para o monitoramento de batimentos cardíacos, oferecendo uma solução especialmente voltada para pessoas com problemas cardiovasculares. O sistema é capaz de acompanhar os sinais vitais dos usuários e emitir alertas automáticos em caso de irregularidades detectadas, permitindo uma resposta rápida e apropriada.
 
-## Visão Geral do Health Monitor
+## Funcionalidades Principais
 
-O Health Monitor visa solucionar o problema na falta de detecção de condições críticas entre consultas, pois o diagnóstico e acompanhamento de problemas cardiovasculares geralmente requer visitas periódicas ao médico e exames em ambientes controlados.
+Monitoramento em Tempo Real: O dispositivo coleta continuamente os dados de frequência cardíaca e níveis de oxigênio no sangue, garantindo uma vigilância constante da saúde do usuário.
+Alertas Automáticos: Em caso de detecção de irregularidades críticas, o sistema notifica automaticamente familiares ou cuidadores via mensagens, permitindo uma intervenção rápida.
+Acompanhamento Remoto: Permita que médicos e familiares monitorem sua saúde à distância, oferecendo segurança adicional.
+Integração IoT Simples: Conecte-se facilmente ao seu smartphone e acompanhe suas métricas de saúde em uma interface intuitiva e acessível.
 
 ## Stack utilizada
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
@@ -26,4 +29,4 @@ O Health Monitor visa solucionar o problema na falta de detecção de condiçõe
 - [Frontend](https://github.com/Gabriel7fs/frontend-health-monitor) - Link do repositório do front-end
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Link do repositório do IOT
 - [Jira](https://gabrielfs86.atlassian.net/jira/software/projects/PHM/boards/2?atlOrigin=eyJpIjoiZDUxNzczNzk5OThlNDM2ZWIzZTMzNjQyNzExOTU3MjYiLCJwIjoiaiJ9) - Link do repositório do IOT
-- [Figma](https://www.figma.com/proto/SRugCUC42ZkaDxU8i3bWDz/Health-Monitor?node-id=0-1&t=SfVAw0eg87TpCmve-1) - Link das Mockups no Figma
+- [Figma](https://www.figma.com/proto/SRugCUC42ZkaDxU8i3bWDz/Health-Monitor?node-id=0-1&t=SfVAw0eg87TpCmve-1) - Mockups
