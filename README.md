@@ -4,10 +4,10 @@ Este projeto visa o desenvolvimento de um sistema IoT integrado a um aplicativo 
 
 ## Funcionalidades Principais
 
-Monitoramento em Tempo Real: O dispositivo coleta continuamente os dados de frequência cardíaca e níveis de oxigênio no sangue, garantindo uma vigilância constante da saúde do usuário.
-Alertas Automáticos: Em caso de detecção de irregularidades críticas, o sistema notifica automaticamente familiares ou cuidadores via mensagens, permitindo uma intervenção rápida.
-Acompanhamento Remoto: Permita que médicos e familiares monitorem sua saúde à distância, oferecendo segurança adicional.
-Integração IoT Simples: Conecte-se facilmente ao seu smartphone e acompanhe suas métricas de saúde em uma interface intuitiva e acessível.
+* **Monitoramento em Tempo Real:** O dispositivo coleta continuamente os dados de frequência cardíaca e níveis de oxigênio no sangue, garantindo uma vigilância constante da saúde do usuário.
+* **Alertas Automáticos:** Em caso de detecção de irregularidades críticas, o sistema notifica automaticamente familiares ou cuidadores via mensagens, permitindo uma intervenção rápida.
+* **Acompanhamento Remoto:** Permita que médicos e familiares monitorem sua saúde à distância, oferecendo segurança adicional.
+* **Integração IoT Simples:** Conecte-se facilmente ao seu smartphone e acompanhe suas métricas de saúde em uma interface intuitiva e acessível.
 
 ## Stack utilizada
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
