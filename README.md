@@ -6,20 +6,6 @@ Solução tecnológica desenvolvida para monitorar a saúde cardíaca. Projetado
 
 O Health Monitor visa solucionar o problema na falta de detecção de condições críticas entre consultas, pois o diagnóstico e acompanhamento de problemas cardiovasculares geralmente requer visitas periódicas ao médico e exames em ambientes controlados.
 
-## Funcionalidades Principais
-
-### 1. Monitorar a frequência cardíaca e o nível de oxigênio no sangue.
-Equipado com o sensor MAX30102, o Health Monitor realiza a leitura dos batimentos cardíacos e níveis de oxigênio no sangue (SpO2). Esses dados são processados, permitindo uma análise da condição cardíaca.
-
-### 3. Alertas e Notificações de Emergência
-Em caso de detecção de anomalias, como Arritmias Cardíacas, Insuficiência Cardíaca, Eventos Cardíacos Agudos e Insuficiência Cardíaca Congestiva o sistema envia alertas imediatos para o usuário e notificações para contatos de emergência previamente cadastrados. Isso garante que ações corretivas possam ser tomadas rapidamente, potencialmente salvando vidas.
-
-### 4. Integração com Aplicativos Móveis
-O Health Monitor se conecta ao aplicativo móvel através de Bluetooth ou Wi-Fi. A interface do aplicativo é projetada para ser intuitiva, oferecendo gráficos e relatórios detalhados dos dados de saúde.
-
-### 5. Conformidade com Padrões de Segurança e Privacidade
-Desenvolvido em conformidade com as regulamentações de saúde, como a RDC 751/2022, e a Lei Geral de Proteção de Dados (LGPD).
-
 ## Stack utilizada
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -36,8 +22,8 @@ Desenvolvido em conformidade com as regulamentações de saúde, como a RDC 751/
 
 ## Links úteis
 - [Wiki](https://github.com/Gabriel7fs/health-monitor/wiki/Health-Monitor-‐-Solução-para-o-Monitoramento-Cardíaco) - Link da Wiki do projeto
-- [Backend](https://github.com/Gabriel7fs/health-monitor-backend) - Link do repositório do back-end
-- [Frontend](https://github.com/Gabriel7fs/health-monitor-frontend) - Link do repositório do front-end
+- [Backend](https://github.com/Gabriel7fs/backend-health-monitor) - Link do repositório do back-end
+- [Frontend](https://github.com/Gabriel7fs/frontend-health-monitor) - Link do repositório do front-end
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Link do repositório do IOT
 - [Jira](https://gabrielfs86.atlassian.net/jira/software/projects/PHM/boards/2?atlOrigin=eyJpIjoiZDUxNzczNzk5OThlNDM2ZWIzZTMzNjQyNzExOTU3MjYiLCJwIjoiaiJ9) - Link do repositório do IOT
 - [Figma](https://www.figma.com/proto/SRugCUC42ZkaDxU8i3bWDz/Health-Monitor?node-id=0-1&t=SfVAw0eg87TpCmve-1) - Link das Mockups no Figma
