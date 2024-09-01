@@ -24,7 +24,7 @@ Este projeto visa o desenvolvimento de um sistema IoT integrado a um aplicativo 
 * **Cloud:** AWS
 
 ## Links úteis
-- [Wiki](https://github.com/Gabriel7fs/health-monitor/wiki/Health-Monitor-‐-Solução-para-o-Monitoramento-Cardíaco) - Link da Wiki do projeto
+- [Wiki](https://github.com/Gabriel7fs/health-monitor/wiki) - Link da Wiki do projeto
 - [Backend](https://github.com/Gabriel7fs/backend-health-monitor) - Link do repositório do back-end
 - [Frontend](https://github.com/Gabriel7fs/frontend-health-monitor) - Link do repositório do front-end
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Link do repositório do IOT
