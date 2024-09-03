@@ -9,18 +9,24 @@ Este projeto visa o desenvolvimento de um sistema IoT integrado a um aplicativo 
 * **Acompanhamento Remoto:** Permita que médicos e familiares monitorem sua saúde à distância, oferecendo segurança adicional.
 * **Integração IoT Simples:** Conecte-se facilmente ao seu smartphone e acompanhe suas métricas de saúde em uma interface intuitiva e acessível.
 
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
 ## Stack utilizada
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 * **Front-end:** Ionic
 * **Back-end:** Java, Spring
 * **IOT:** C
-* **Banco de dados:** Postgres 
+* **Banco de dados:** Postgres
+* **Virtualização:** Docker
 * **Cloud:** AWS
 
 ## Links úteis
