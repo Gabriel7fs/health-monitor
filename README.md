@@ -34,5 +34,5 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 - [Backend](https://github.com/Gabriel7fs/backend-health-monitor) - Link do repositório do back-end
 - [Frontend](https://github.com/Gabriel7fs/frontend-health-monitor) - Link do repositório do front-end
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Link do repositório do IOT
-- [Jira](https://gabrielfs86.atlassian.net/jira/software/projects/PHM/boards/2?atlOrigin=eyJpIjoiZDUxNzczNzk5OThlNDM2ZWIzZTMzNjQyNzExOTU3MjYiLCJwIjoiaiJ9) - Link do repositório do IOT
+- [Jira](https://gabrielfs86.atlassian.net/jira/software/projects/PHM/boards/2?atlOrigin=eyJpIjoiZDUxNzczNzk5OThlNDM2ZWIzZTMzNjQyNzExOTU3MjYiLCJwIjoiaiJ9) - Link do Jira
 - [Figma](https://www.figma.com/proto/SRugCUC42ZkaDxU8i3bWDz/Health-Monitor?node-id=0-1&t=SfVAw0eg87TpCmve-1) - Mockups
