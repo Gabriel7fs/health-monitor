@@ -1,6 +1,8 @@
 # Health Monitor - Monitoramento de Batimentos Cardíacos
 
-Este projeto visa o desenvolvimento de um sistema IoT integrado a um aplicativo móvel para o monitoramento de batimentos cardíacos, oferecendo uma solução especialmente voltada para pessoas com problemas cardiovasculares. O sistema é capaz de acompanhar os sinais vitais dos usuários e emitir alertas automáticos em caso de irregularidades detectadas, permitindo uma resposta rápida e apropriada.
+Este repositório é dedicado à documentação do projeto Health Monitor - Monitoramento de Batimentos Cardíacos. O sistema proposto visa oferecer uma solução IoT integrada a um aplicativo móvel para o monitoramento de batimentos cardíacos e níveis de oxigênio no sangue, focado principalmente em pessoas com problemas cardiovasculares. A documentação inclui detalhes técnicos, arquitetura e guias de uso, permitindo uma visão abrangente do projeto.
+
+Para obter mais detalhes sobre o desenvolvimento de funcionalidades e o código-fonte do sistema, consulte os links úteis abaixo.
 
 ## Funcionalidades Principais
 
@@ -14,6 +16,9 @@ Este projeto visa o desenvolvimento de um sistema IoT integrado a um aplicativo 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Stack utilizada
+
+O projeto como um todo faz uso das seguintes tecnologias:
+
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
