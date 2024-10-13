@@ -35,6 +35,9 @@ O projeto como um todo faz uso das seguintes tecnologias:
 * **Cloud:** AWS
 
 ## Links úteis
+
+Aqui estão os links para os outros repositórios e ferramentas relacionadas ao projeto:
+
 - [Wiki](https://github.com/Gabriel7fs/health-monitor/wiki) - Link da Wiki do projeto
 - [Backend](https://github.com/Gabriel7fs/backend-health-monitor) - Link do repositório do back-end
 - [Frontend](https://github.com/Gabriel7fs/frontend-health-monitor) - Link do repositório do front-end
