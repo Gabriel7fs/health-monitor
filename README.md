@@ -39,7 +39,7 @@ O projeto como um todo faz uso das seguintes tecnologias:
 Aqui estão os links para os outros repositórios e ferramentas relacionadas ao projeto:
 
 - [Wiki](https://github.com/Gabriel7fs/health-monitor/wiki) - Informações detalhadas e guias do projeto
-- [Backend](https://github.com/Gabriel7fs/backend-health-monitor) - Repositório do back-end
+- [Backend](https://github.com/Gabriel7fs/back-health-monitor) - Repositório do back-end
 - [Frontend](https://github.com/Gabriel7fs/frontend-health-monitor) - Repositório do front-end
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Repositório do código de IoT
 - [Jira](https://gabrielfs86.atlassian.net/jira/software/projects/PHM/boards/2?atlOrigin=eyJpIjoiZDUxNzczNzk5OThlNDM2ZWIzZTMzNjQyNzExOTU3MjYiLCJwIjoiaiJ9) - Board do Jira para acompanhamento das tarefas do projeto
