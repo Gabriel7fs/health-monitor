@@ -37,7 +37,7 @@ O projeto como um todo faz uso das seguintes tecnologias:
 - **Monitoramento:** Grafana e Prometheus
 
 ## Links
-Aqui estão os links para os outros repositórios e ferramentas relacionadas ao projeto:
+Aqui estão os links para os outros repositórios ferramentas relacionadas ao projeto e a apk do aplicativo:
 
 ### APK
 - 
