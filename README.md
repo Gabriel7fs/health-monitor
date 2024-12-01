@@ -5,9 +5,8 @@ Para obter mais detalhes sobre o desenvolvimento de funcionalidades e o código-
 
 ## Funcionalidades Principais
 * **Monitoramento em Tempo Real:** O dispositivo coleta continuamente os dados de frequência cardíaca e níveis de oxigênio no sangue, garantindo uma vigilância constante da saúde do usuário.
-* **Alertas Automáticos:** Em caso de detecção de irregularidades críticas, o sistema notifica automaticamente familiares ou cuidadores via mensagens, permitindo uma intervenção rápida.
+* **Alertas Automáticos:** Em caso de detecção de irregularidades críticas, o sistema alerta automaticamente os monitores do paciente, permitindo uma intervenção rápida.
 * **Acompanhamento Remoto:** Permita que médicos e familiares monitorem sua saúde à distância, oferecendo segurança adicional.
-* **Integração IoT Simples:** Conecte-se facilmente ao seu smartphone e acompanhe suas métricas de saúde em uma interface intuitiva e acessível.
 
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
