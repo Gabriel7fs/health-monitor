@@ -39,21 +39,18 @@ O projeto como um todo faz uso das seguintes tecnologias:
 Aqui estão os links para os outros repositórios ferramentas relacionadas ao projeto e a apk do aplicativo:
 
 ### APK
-- 
+- [APK](https://drive.google.com/drive/u/1/folders/18BauIdDIypA8bfIgAjnFnEx9DDYZj5NU) - Aplicativo para Android
 
 ### Documentação
-
 - [Wiki](https://github.com/Gabriel7fs/health-monitor/wiki) - Informações detalhadas e guias do projeto.
 - [Documentação da API (Swagger)](http://3.145.228.49/api/swagger-ui/index.html) - Documentação da API.
 
 ### Repositórios
-
 - [Backend](https://github.com/Gabriel7fs/back-health-monitor) - Repositório do back-end
 - [Frontend](https://github.com/Gabriel7fs/frontend-health-monitor) - Repositório do front-end
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Repositório do código de IoT
 
 ### Monitoramento
-
 - [Grafana](http://3.147.185.56:3000/d/OS7-NUiGz/spring-boot-statistics-and-endpoint-metrics?orgId=1&refresh=5s) - Painel de estatísticas do Spring Boot e métricas de Endpoint. (usuário: admin, senha: admin)
 - [SonarCloud - BackEnd](https://sonarcloud.io/summary/new_code?id=Gabriel7fs_back-health-monitor) - SonarCloud do Back-end.
 - [SonarCloud - FrontEnd](https://sonarcloud.io/project/overview?id=Gabriel7fs_frontend-health-monitor) - SonarCloud do Front-end.
