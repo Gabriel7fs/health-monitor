@@ -15,11 +15,15 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 O projeto como um todo faz uso das seguintes tecnologias:
 
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182?style=for-the-badge&logo=jasmine)
+![Karma](https://img.shields.io/badge/Karma-%23027E6F?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![JUnit](https://img.shields.io/badge/junit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=%23FFFFFF)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![SonarCloud](https://img.shields.io/badge/sonarcloud-%234E9BCD?style=for-the-badge&logo=sonarcloud)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 * **Front-end:** Ionic
