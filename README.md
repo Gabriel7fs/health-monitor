@@ -24,7 +24,8 @@ O projeto como um todo faz uso das seguintes tecnologias:
 ![SonarCloud](https://img.shields.io/badge/sonarcloud-%234E9BCD?style=for-the-badge&logo=sonarcloud)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/amazonwebservices-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FFFFFF)
+
 
 * **Front-end:** Ionic
 * **Back-end:** Java, Spring
