@@ -20,25 +20,35 @@ O projeto como um todo faz uso das seguintes tecnologias:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![JUnit](https://img.shields.io/badge/junit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=%23FFFFFF)
+![Mockito](https://img.shields.io/badge/mockito-%23800000?style=for-the-badge&logo=mockito&logoColor=%23FFFFFF)
 ![Arduino](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=%23FFFFFF)
-![SonarCloud](https://img.shields.io/badge/sonarcloud-%234E9BCD?style=for-the-badge&logo=sonarcloud)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/amazonwebservices-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FFFFFF)
 
 
-* **Front-end:** Ionic
-* **Back-end:** Java, Spring
-* **IOT:** Arduino
-* **Banco de dados:** Postgres
-* **Virtualização:** Docker
-* **Cloud:** AWS
+* **Front-end Ionic:** framework open-source para desenvolver aplicativos móveis, web e desktop com base no Angular e tecnologias web como HTML, CSS e JavaScript.
+* **Front-end Jasmine:** framework de teste para JavaScript que permite escrever testes de unidade de forma simples e eficiente, garantindo a qualidade do código frontend.
+* **Front-end Karma:** ferramenta de execução de testes JavaScript. Geralmente usada com Jasmine, roda os testes em navegadores reais.
+* **Back-end Java:** linguagem de programação amplamente utilizada, conhecida por sua robustez e portabilidade, orientada a objetos.
+* **Back-end Spring Boot:** framework para construir aplicações Java de forma rápida.
+* **Back-end JUnit:** framework para escrever testes unitários em Java. Ele ajuda a verificar a funcionalidade do backend e garantir que o código funcione como esperado.
+* **Back-end Mockito:** framework de simulação (mocking) para testes em Java. É usado para criar objetos simulados para testar interações entre diferentes partes do sistema.
+* **IOT Arduino:** plataforma de prototipagem open-source baseada em hardware e software. No projeto, é utilizado para IoT com Esp32, para controle e coleta de dados do sensor MAX30100.
+* **Banco de dados PostgreSQL:** sistema de banco de dados relacional avançado e open-source, utilizado no projeto para armazenamento e gerenciamento de dados.
+* **Virtualização Docker:** plataforma para criar, gerenciar e executar containers. Ajuda a garantir que o ambiente de desenvolvimento e produção sejam consistentes.
+* **Cloud AWS:** plataforma de serviços de computação em nuvem que oferece infraestrutura e ferramentas como EC2, utilizada no desenvolvimento. No projeto, é usada para deploy e hospedagem.
 
 ## Ferramentas de Desenvolvimento
-- **Code Review:** SonarCloud
-- **Continuous Deployment (CD):** Github Actions
-- **Continuous Integration (CI):** SonarCloud Quality Gate
-- **Monitoramento:** Grafana e Prometheus
+![Githubactions](https://img.shields.io/badge/githubactions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=%23FFFFFF)
+![SonarCloud](https://img.shields.io/badge/sonarcloud-%234E9BCD?style=for-the-badge&logo=sonarcloud)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=%23FFFFFF)
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=%23FFFFFF)
+
+- **SonarCloud Code Review:** plataforma de análise estática de código que identifica vulnerabilidades, problemas de segurança e má qualidade de código. É usada para realizar code review automatizado e manter a qualidade do código no projeto.
+- **Github Actions (CD/CD):** ferramenta de automação que permite criar pipelines de integração contínua (CI) e entrega contínua (CD).
+- **Grafana:** plataforma de visualização e monitoramento de dados. No projeto, é usada para criar dashboards que exibem métricas de desempenho e outras informações relevantes para o monitoramento.
+- **Prometheus:** ferramenta de monitoramento e alerta para sistemas distribuídos. Ele coleta métricas em tempo real e fornece os dados necessários para o Grafana gerar gráficos e dashboards.
 
 ## Links
 Aqui estão os links para os outros repositórios ferramentas relacionadas ao projeto e a apk do aplicativo:
