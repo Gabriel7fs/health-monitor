@@ -20,7 +20,7 @@ O projeto como um todo faz uso das seguintes tecnologias:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![JUnit](https://img.shields.io/badge/junit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=%23FFFFFF)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=%23FFFFFF)
 ![SonarCloud](https://img.shields.io/badge/sonarcloud-%234E9BCD?style=for-the-badge&logo=sonarcloud)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
@@ -28,7 +28,7 @@ O projeto como um todo faz uso das seguintes tecnologias:
 
 * **Front-end:** Ionic
 * **Back-end:** Java, Spring
-* **IOT:** C
+* **IOT:** Arduino
 * **Banco de dados:** Postgres
 * **Virtualização:** Docker
 * **Cloud:** AWS
