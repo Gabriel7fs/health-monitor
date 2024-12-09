@@ -58,7 +58,7 @@ Aqui estão os links para os outros repositórios ferramentas relacionadas ao pr
 
 ### Documentação
 - [Wiki](https://github.com/Gabriel7fs/health-monitor/wiki) - Informações detalhadas e guias do projeto.
-- [Documentação da API (Swagger)](http://3.145.228.49/api/swagger-ui/index.html) - Documentação da API.
+- [Documentação da API (Swagger)](http://18.191.189.164/api/swagger-ui/index.html#/) - Documentação da API.
 
 ### Repositórios
 - [Backend](https://github.com/Gabriel7fs/back-health-monitor) - Repositório do back-end
