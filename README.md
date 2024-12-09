@@ -66,7 +66,7 @@ Aqui estão os links para os outros repositórios ferramentas relacionadas ao pr
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Repositório do código de IoT
 
 ### Monitoramento
-- [Grafana](http://3.147.185.56:3000/d/OS7-NUiGz/spring-boot-statistics-and-endpoint-metrics?orgId=1&refresh=5s) - Painel de estatísticas do Spring Boot e métricas de Endpoint. (usuário: admin, senha: admin)
+- [Grafana](http://18.191.189.164:3000/d/OS7-NUiGz/spring-boot-statistics-and-endpoint-metrics?orgId=1&refresh=5s) - Painel de estatísticas do Spring Boot e métricas de Endpoint. (usuário: admin, senha: admin)
 - [SonarCloud - BackEnd](https://sonarcloud.io/summary/new_code?id=Gabriel7fs_back-health-monitor) - SonarCloud do Back-end.
 - [SonarCloud - FrontEnd](https://sonarcloud.io/summary/overall?id=Gabriel7fs_frontend-health-monitor&branch=main) - SonarCloud do Front-end.
 
