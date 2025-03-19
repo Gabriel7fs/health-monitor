@@ -51,7 +51,7 @@ O projeto como um todo faz uso das seguintes tecnologias:
 - **Prometheus:** ferramenta de monitoramento e alerta para sistemas distribuídos. Ele coleta métricas em tempo real e fornece os dados necessários para o Grafana gerar gráficos e dashboards.
 
 ## Links
-Aqui estão os links para os outros repositórios ferramentas relacionadas ao projeto e a apk do aplicativo:
+Aqui estão os links para os outros repositórios, ferramentas relacionadas ao projeto e a apk do aplicativo:
 
 ### APK
 - [APK](https://drive.google.com/drive/u/1/folders/18BauIdDIypA8bfIgAjnFnEx9DDYZj5NU) - Aplicativo para Android
