@@ -74,3 +74,11 @@ Aqui estão os links para os outros repositórios, ferramentas relacionadas ao p
 
 - [Jira](https://wordswap.atlassian.net/jira/software/projects/SCRUM/boards/1) - Board do Jira para acompanhamento das tarefas do projeto.
 - [Figma](https://www.figma.com/proto/SRugCUC42ZkaDxU8i3bWDz/Health-Monitor?node-id=0-1&t=SfVAw0eg87TpCmve-1) - Mockups do sistema no Figma.
+
+## Demonstração
+
+
+
+https://github.com/user-attachments/assets/74330543-0d80-4035-88d6-0c64d9693ae1
+
+
