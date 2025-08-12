@@ -46,7 +46,7 @@ O projeto como um todo faz uso das seguintes tecnologias:
 ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=%23FFFFFF)
 
 - **SonarCloud Code Review:** plataforma de análise estática de código que identifica vulnerabilidades, problemas de segurança e má qualidade de código. É usada para realizar code review automatizado e manter a qualidade do código no projeto.
-- **Github Actions (CD/CD):** ferramenta de automação que permite criar pipelines de integração contínua (CI) e entrega contínua (CD).
+- **Github Actions (CI/CD):** ferramenta de automação que permite criar pipelines de integração contínua (CI) e entrega contínua (CD).
 - **Grafana:** plataforma de visualização e monitoramento de dados. No projeto, é usada para criar dashboards que exibem métricas de desempenho e outras informações relevantes para o monitoramento.
 - **Prometheus:** ferramenta de monitoramento e alerta para sistemas distribuídos. Ele coleta métricas em tempo real e fornece os dados necessários para o Grafana gerar gráficos e dashboards.
 
