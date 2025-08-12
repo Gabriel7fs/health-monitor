@@ -58,7 +58,6 @@ Aqui estão os links para os outros repositórios, ferramentas relacionadas ao p
 
 ### Documentação
 - [Wiki](https://github.com/Gabriel7fs/health-monitor/wiki) - Informações detalhadas e guias do projeto.
-- [Documentação da API (Swagger)](http://18.191.189.164/api/swagger-ui/index.html#/) - Documentação da API.
 
 ### Repositórios
 - [Backend](https://github.com/Gabriel7fs/back-health-monitor) - Repositório do back-end
@@ -66,19 +65,13 @@ Aqui estão os links para os outros repositórios, ferramentas relacionadas ao p
 - [IOT](https://github.com/Gabriel7fs/health-monitor-iot) - Repositório do código de IoT
 
 ### Monitoramento
-- [Grafana](http://18.191.189.164:3000/d/OS7-NUiGz/spring-boot-statistics-and-endpoint-metrics?orgId=1&refresh=5s) - Painel de estatísticas do Spring Boot e métricas de Endpoint. (usuário: admin, senha: admin)
 - [SonarCloud - BackEnd](https://sonarcloud.io/summary/new_code?id=Gabriel7fs_back-health-monitor) - SonarCloud do Back-end.
 - [SonarCloud - FrontEnd](https://sonarcloud.io/summary/overall?id=Gabriel7fs_frontend-health-monitor&branch=main) - SonarCloud do Front-end.
 
 ### Ferramentas de Colaboração
 
-- [Jira](https://wordswap.atlassian.net/jira/software/projects/SCRUM/boards/1) - Board do Jira para acompanhamento das tarefas do projeto.
 - [Figma](https://www.figma.com/proto/SRugCUC42ZkaDxU8i3bWDz/Health-Monitor?node-id=0-1&t=SfVAw0eg87TpCmve-1) - Mockups do sistema no Figma.
 
 ## Demonstração
 
-
-
 https://github.com/user-attachments/assets/74330543-0d80-4035-88d6-0c64d9693ae1
-
-
